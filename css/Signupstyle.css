@@ -674,6 +674,12 @@ a.google span{
 	background-color: black;
 		padding: 0px
 	}
+	.SignupContainer{
+		margin-top: -25px
+	}
+	.LoginContainer{
+		margin-top: -100px
+	}
 	
 	
 }
