@@ -1639,6 +1639,7 @@ ol {
 	.header-section {
 		padding: 20px 0;
 		background: #131722;
+		position: fixed;
 	}
 	.header-section .responsive-bar {
 		float: right;
